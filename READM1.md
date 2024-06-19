@@ -1,7 +1,8 @@
 # Hello-Word
 //this is my 1st repository
 I'm boring,so come here.that's all.
-
+https://docs.google.com/document/d/1-4j03mUoM9gcwpkwas7IMg6vNmA_Ra-Q/edit?usp=drivesdk&ouid=105063223187053907283&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1-122mJoAAZJMNPODsL-6xZkQE0eBH_XB/edit?usp=drivesdk&ouid=105063223187053907283&rtpof=true&sd=true
 
 test
 https://drive.google.com/drive/folders/xbell1JpNrhC0BWse9VdYLi4uVjjGPWbOpBw8o?usp=drive_link
